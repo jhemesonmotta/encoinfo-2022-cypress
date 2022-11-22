@@ -1,0 +1,20 @@
+{
+  "name": "base-curso-cypress",
+  "version": "1.0.0",
+  "description": "Base para o curso de testes automatizados com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "e2e",
+    "prefabs"
+  ],
+  "author": "Jhemeson S. Mota",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.4.0"
+  }
+}
