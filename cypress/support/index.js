@@ -10,7 +10,7 @@
 //************************************************ ***********
 
 // Importe usando a sintaxe ES2015:
-import './commands'
+import "./commands";
 
 // Alternativamente, você pode usar a sintaxe CommonJS:
 // require('./commands')

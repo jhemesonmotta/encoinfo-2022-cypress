@@ -3,5 +3,7 @@
   "waitForAnimations": true,
   "defaultCommandTimeout": 5000,
   "pageLoadTimout": 60000,
-  "failOnStatusCode": false
+  "failOnStatusCode": false,
+  "viewportWidth": 1200,
+  "viewportHeight": 800
 }
