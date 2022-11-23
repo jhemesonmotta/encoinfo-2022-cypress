@@ -12,6 +12,6 @@ describe("Deve fazer login corretamente", function () {
   it("Preenchimento do formulário deve funcionar", function () {
     cy.get("#login_field").type("Humberto Gessinger");
     cy.get("#password").type("Humberto Gessinger");
-    cy.get('input[type="commit"]').click();
+    cy.get('input[type="submit"]').click();
   });
 });
